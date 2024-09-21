@@ -1,0 +1,47 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "gorm_migrator",
+    "collectionId": "7a94982c-2197-4175-b687-381d64f5022b",
+    "dateExported": "2024-09-21T11:31:31.325Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "1d6426fc-7eda-4bf0-a1b5-2018a64ca6c2",
+            "colId": "7a94982c-2197-4175-b687-381d64f5022b",
+            "containerId": "",
+            "name": "/migrate",
+            "url": "http://localhost:8081/migrate",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2024-09-21T11:30:30.281Z",
+            "modified": "2024-09-21T11:30:57.272Z",
+            "headers": []
+        },
+        {
+            "_id": "78966275-9847-4a29-aee3-d1ea2ac9ab55",
+            "colId": "7a94982c-2197-4175-b687-381d64f5022b",
+            "containerId": "",
+            "name": "/migrate/rollback",
+            "url": "http://localhost:8081/migrate/rollback",
+            "method": "POST",
+            "sortNum": 20000,
+            "created": "2024-09-21T11:30:41.966Z",
+            "modified": "2024-09-21T11:30:53.500Z",
+            "headers": []
+        },
+        {
+            "_id": "c229e0db-57f3-43a7-9a8e-75a4d46fffe6",
+            "colId": "7a94982c-2197-4175-b687-381d64f5022b",
+            "containerId": "",
+            "name": "/columns/:table",
+            "url": "http://localhost:8081/columns/:table",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-09-21T11:30:59.476Z",
+            "modified": "2024-09-21T11:31:28.116Z",
+            "headers": []
+        }
+    ],
+    "ref": "RIK5yi9YaxW-GacBy26_vQ2yvD1ZsE6rWteRUomZO9E3KRmDwW9aYJi8mGFN_yhLUOgn5oQcRuJa1WNWMifqzA"
+}

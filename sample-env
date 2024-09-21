@@ -1,0 +1,9 @@
+DB_HOST=localhost
+DB_USERNAME=your_username
+DB_PASSWORD=your_password
+DB_NAME=gorm_migrator
+DB_PORT=5432
+DB_SSL_MODE=disable
+DB_SCHEMA=public
+DB_RUN_MIGRATION=true
+DB_RUN_SEEDER=false
